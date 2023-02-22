@@ -16,8 +16,8 @@ const App = () => {
   return (
     <div className="flex justify-center items-center w-screen h-screen bg-[url('./assets/bg.gif')]">
       <div className="w-3/4 flex md:flex-row flex-col md:gap-24 gap-10">
-        <div className="md:w-1/2 ">
-          <h1 className="text-white text-6xl font-serif font-bold">
+        <div className="md:w-1/2">
+          <h1 className="text-white text-6xl font-serif font-bold mt-10">
             TitleCraft
           </h1>
           <p className="text-white text-base">
